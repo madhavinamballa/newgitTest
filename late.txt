@@ -1,0 +1,2 @@
+am in this file 
+i opend the file and read it
